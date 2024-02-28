@@ -1,12 +1,8 @@
----
-title: MarkdownStuff Github README
-date: {{ time }}
-tags:
-- markdown
-- README
----
-
+<p align="center">
+  
 # ->Welcome Traveler<-
+
+</p>
 
 The reop exists purely as a place for me to store various files to track my progression while learning Markdown.
 
