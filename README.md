@@ -1,7 +1,5 @@
 <p align="center">
-  
-# ->Welcome Traveler<-
-
+# Welcome Traveler
 </p>
 
 The reop exists purely as a place for me to store various files to track my progression while learning Markdown.
